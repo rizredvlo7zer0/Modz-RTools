@@ -16,4 +16,4 @@ $ pip install bs4
 
 $ pip install speedtest-cli
 
-$ pkg install ssh
+$ pkg install openssh
