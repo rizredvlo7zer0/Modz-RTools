@@ -2,7 +2,7 @@
 Zzz
 
 
-#cara install tools @modz_riz
+# cara install tools @modz_riz
 
 $ pkg update && pkg upgrade - y
 
