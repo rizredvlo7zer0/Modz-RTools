@@ -137,5 +137,5 @@ if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
 echo "\033[32;1mAuthor : @Modz_Riz"
-git clone
+https://github.com/rizredvlo7zer0/modz_riz
 fi
