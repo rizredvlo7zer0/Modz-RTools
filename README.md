@@ -19,4 +19,4 @@ $ pkg install openssh
 
 $ pkg install git
 
-$ git clone https://github.com/rizredvlo7zer0/modz_riz
+$ git clone (https://github.com/rizredvlo7zer0/Modz-RTools)https://github.com/rizredvlo7zer0/Modz-RTools
