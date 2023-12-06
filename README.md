@@ -1,8 +1,7 @@
-# modz_riz
-Zzz
+# Mod-Rtools
 
 
-# cara install tools @modz_riz
+# cara install tools @Modz_Riz
 
 $ pkg update && pkg upgrade - y
 
